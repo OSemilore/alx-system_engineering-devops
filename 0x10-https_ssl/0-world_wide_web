@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-# Script that displays information about subdomains.
-
+# Script to display information about our server subdomains
 func () {
     if [ -n "$2" ]
     then
